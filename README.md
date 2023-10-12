@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi !👋
+### I like working with data !
+### I speak 🇬🇧: and :de:
 
 <!--
 **Lunczer93/Lunczer93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
