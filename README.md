@@ -2,6 +2,7 @@
 <br>I like working with ***data*** ! :man_technologist:
 <br>In my free time I like reading books :blue_book:,going sightseeing :pilot: :world_map: :cityscape:	, exercising  :swimmer: :football: :muscle: :runner:, learning foreign languages :de: :uk: and spending time with friends :dancers: :people_holding_hands:	
 <br>I created ***projects*** related to data in order to develop my skills in ***data fields***. All projects are included in my repositories  :computer:	 :chart:	 :chart_with_downwards_trend:	
+<br> Tech Stack: 
 
 <!--
 **Lunczer93/Lunczer93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
