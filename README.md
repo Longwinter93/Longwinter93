@@ -1,6 +1,7 @@
 ### Hi, I am Lukasz !👋
 ### I like working with data ! :man_technologist:
-### In my free time I like reading books :blue_book:, exercising  :swimmer: :football: :muscle: :runner: and spending time with friends :dancers:
+### In my free time I like reading books :blue_book:,going sightseeing :pilot:	 , exercising  :swimmer: :football: :muscle: :runner:, learning foreign languages :de: :uk: and spending time with friends :dancers:
+### I created projects related to data in order to develop my skills 
 
 <!--
 **Lunczer93/Lunczer93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
