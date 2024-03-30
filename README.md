@@ -1,13 +1,16 @@
 # 👋 Hi, My name is Lukasz !
 # :information_desk_person: About me
-<br>I like working with ***data*** ! :man_technologist: 
+<br>:man_technologist: Working as Data Engineer, therefore I like working with data ! 
 <br>In my free time
 - :blue_book: I like reading books
 - :world_map: :pilot: going sightseeing
-- :muscle: :runner: exercising at gym & doing sports,
+- :muscle: :runner: exercising at gym & doing sports
 - :de: :uk: learning foreign languages
-- :dancers: :people_holding_hands: spending time with friends 
-<br>I create ***projects*** related to data in order to develop constantly my skills in ***data fields*** and I follow the latest trends in data. All projects are included in my repositories  :computer:	 	
+- :dancers: :people_holding_hands: spending time with friends
+
+:computer:	I create projects related to data in order to develop constantly my skills in data fields and I follow the latest trends in data.
+:file_folder:	All projects are included in my repositories 
+
 # :chart_with_downwards_trend:	 Github Stats
 <br>![Longwinter93's GitHub stats](https://github-readme-stats.vercel.app/api?username=Longwinter93&show_icons=true&theme=city_lights) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Longwinter93&layout=compact&theme=city_lights)
 # :computer: Tech Stack 
