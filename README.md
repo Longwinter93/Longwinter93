@@ -8,7 +8,7 @@
 - :de: :uk: learning foreign languages
 - :dancers: :people_holding_hands: spending time with friends
 
-<br>:computer:	I create projects related to data in order to develop constantly my skills in data fields and I follow the latest trends in data.
+<br>:point_right:	I create projects related to data in order to develop constantly my skills in data fields and I follow the latest trends in data.
 <br>:file_folder:	All projects are included in my repositories 
 
 # :chart_with_downwards_trend:	 Github Stats
