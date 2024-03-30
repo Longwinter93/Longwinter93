@@ -13,7 +13,7 @@
 <br>:file_folder:	All projects are included in my repositories 
 
 # :chart_with_downwards_trend:	 Github Stats
-<br>![Longwinter93's GitHub stats](https://github-readme-stats.vercel.app/api?username=Longwinter93&show_icons=true&theme=city_lights) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Longwinter93&layout=compact&theme=city_lights)
+<br>![Longwinter93's GitHub stats](https://github-readme-stats.vercel.app/api?username=Longwinter93&show_icons=true&theme=city_lights&include_all_commits=True) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Longwinter93&layout=compact&theme=city_lights)
 # :computer: Tech Stack 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
