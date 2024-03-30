@@ -8,8 +8,8 @@
 - :de: :uk: learning foreign languages
 - :dancers: :people_holding_hands: spending time with friends
 
-:computer:	I create projects related to data in order to develop constantly my skills in data fields and I follow the latest trends in data.
-:file_folder:	All projects are included in my repositories 
+<br>:computer:	I create projects related to data in order to develop constantly my skills in data fields and I follow the latest trends in data.
+<br>:file_folder:	All projects are included in my repositories 
 
 # :chart_with_downwards_trend:	 Github Stats
 <br>![Longwinter93's GitHub stats](https://github-readme-stats.vercel.app/api?username=Longwinter93&show_icons=true&theme=city_lights) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Longwinter93&layout=compact&theme=city_lights)
