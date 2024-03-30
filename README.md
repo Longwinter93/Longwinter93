@@ -1,8 +1,8 @@
 # 👋 Hi, My name is Lukasz !
 # :information_desk_person: About me
 <br>:man_technologist: Working as Data Engineer, therefore I like working with data ! 
-<br>:lotus_position:	In my free time
-- :blue_book: I like reading books
+<br>:lotus_position:	In my free time I like
+- :blue_book: reading books
 - :world_map: :pilot: going sightseeing
 - :muscle: :runner: exercising at gym & doing sports
 - :de: :uk: learning foreign languages
