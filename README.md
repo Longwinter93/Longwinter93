@@ -1,4 +1,5 @@
 # 👋 Hi, My name is Lukasz !
+![](https://komarev.com/ghpvc/?username=Longwinter93&color=blue)
 # :information_desk_person: About me
 <br>:man_technologist: Working as Data Engineer, therefore I like working with data ! 
 <br>:lotus_position:	In my free time I like
