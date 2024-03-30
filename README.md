@@ -1,4 +1,4 @@
-<br>Hi, I am ***Lukasz*** !👋
+# 👋 Hi, I am ***Lukasz*** !
 <br>I like working with ***data*** ! :man_technologist: 
 <br>In my free time I like reading books :blue_book:,going sightseeing :pilot: :world_map: :cityscape:	, exercising  :swimmer: :football: :muscle: :runner:, learning foreign languages :de: :uk: and spending time with friends :dancers: :people_holding_hands:	
 <br>I create ***projects*** related to data in order to develop constantly my skills in ***data fields*** and I follow the latest trends in data. All projects are included in my repositories  :computer:	 :chart:	 :chart_with_downwards_trend:	
