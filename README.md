@@ -1,5 +1,5 @@
 # 👋 Hi, My name is Lukasz !
-[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](a)
+[<https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>](a)
 [<img src="img/myImage. png">]
 # :information_desk_person: About me
 <br>:man_technologist: Working as Data Engineer, therefore I like working with data ! 
