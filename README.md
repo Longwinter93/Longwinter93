@@ -16,6 +16,7 @@
 <br>![Longwinter93's GitHub stats](https://github-readme-stats.vercel.app/api?username=Longwinter93&show_icons=true&theme=city_lights&include_all_commits=True) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Longwinter93&layout=compact&theme=city_lights)
 # :computer: Tech Stack 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) <br>
